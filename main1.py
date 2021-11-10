@@ -6,6 +6,6 @@ while(n>0):
     rev=rev*10+dig
     n=n//10
 if(temp==rev)
-  print("the no. is a palendrome")
+  print("no. is a palendrome")
 else:
-  print("the no. is not apalendrome")
+  print("the no. is not a palendrome")
